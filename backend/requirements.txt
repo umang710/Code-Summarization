@@ -1,5 +1,6 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
 flask
 flask-cors
 transformers
-torch
+torch==2.1.0
 numpy
