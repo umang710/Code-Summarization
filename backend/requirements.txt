@@ -2,6 +2,4 @@ flask
 flask-cors
 transformers
 torch
-matplotlib
-seaborn
 numpy
